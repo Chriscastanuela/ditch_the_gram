@@ -33,3 +33,4 @@ export default {
 <!-- vite local: npm run dev -->
 <!-- github gist: https://gist.github.com/adrianhajdin/4d2500bf5af601bbd9f4f596298d33ac>
 <!-- appwrite: cloud.appwrite.io -->
+<!-- Shadcn: https://ui.shadcn.com/docs/installation/vite -->
